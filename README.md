@@ -1,2 +1,2 @@
 # ghelen.github.io
-[Дискорд бот тут](https://github.com/Developer-DiscordBots/ghelen.github.io)
+[Сервис_VIP_Youtube](https://www.youtube.com)
